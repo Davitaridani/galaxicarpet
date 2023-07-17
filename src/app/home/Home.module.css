@@ -1,0 +1,15 @@
+.bgCover {
+  background: url("../../assets/images/home/home3-background-1.jpg") no-repeat;
+  background-position: inherit;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+
+.bgHero {
+  background: url("../../assets/images/home/bg-hero.jpg") no-repeat;
+  height: 100vh;
+  display: flex;
+  background-position: center;
+  background-size: cover;
+}
